@@ -29,3 +29,4 @@ C:\Users\Nendo\OneDrive\Desktop\BlazorApp\BlazorApp0\obj\Debug\net6.0\refint\Bla
 C:\Users\Nendo\OneDrive\Desktop\BlazorApp\BlazorApp0\obj\Debug\net6.0\BlazorApp0.pdb
 C:\Users\Nendo\OneDrive\Desktop\BlazorApp\BlazorApp0\obj\Debug\net6.0\BlazorApp0.genruntimeconfig.cache
 C:\Users\Nendo\OneDrive\Desktop\BlazorApp\BlazorApp0\obj\Debug\net6.0\ref\BlazorApp0.dll
+C:\Users\Nendo\OneDrive\Desktop\BlazorApp\BlazorApp0\obj\Debug\net6.0\BlazorApp0.sourcelink.json
